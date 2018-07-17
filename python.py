@@ -1,3 +1,3 @@
 string = "bhargav"
-integer = "weight is going to be 108"
+integer = "weight is going to be decrease"
 print(string+integer)
